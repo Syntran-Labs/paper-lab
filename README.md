@@ -45,6 +45,18 @@ Each project is a **standalone repository** with its own README, notebooks, test
 
 ---
 
+## 🌱 Early Incubation
+
+Projects at an early stage — exploring methods, testbeds, and workflows that may eventually result in a published implementation.
+
+| Project | Focus | Status |
+|---|---|:---:|
+| **[paper-eca-llm-hypothesis-workflow](https://github.com/Syntran-Labs/paper-eca-llm-hypothesis-workflow)** | Uses Elementary Cellular Automata as a bounded, reproducible testbed for governed LLM-assisted scientific hypothesis generation | 🌱 Early Incubation |
+
+ECA LLM Hypothesis Workflow tests whether a governed LLM-assisted scientific workflow can generate falsifiable, reproducible, non-overclaiming hypotheses. The project uses the 256 Elementary Cellular Automata Wolfram rules as a finite and well-documented testbed, making overclaims easier to detect and follow-up experiments easier to reproduce. Governed by SYNTRAN AIEOS and methods-oriented by design — not a finished paper.
+
+---
+
 ## 🧭 Implementation Philosophy
 
 > **A paper implementation should make the reader understand the paper, not just run it.**
